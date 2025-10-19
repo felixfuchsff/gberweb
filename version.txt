@@ -1,11 +1,11 @@
+commit ee96b1ebcd91cd929d96897d6e08327da43bac93
+Author: Felix <noreplay-felixff@gihub.com>
+Date:   Sun Oct 19 02:54:08 2025 +0200
+
+    simplify date command
+
 commit 6144e01bfba356c9f1a51b73e8a0f0ca548b20f5
 Author: Felix <noreplay-felixff@gihub.com>
 Date:   Sun Oct 19 02:51:34 2025 +0200
 
     use submodule, auto deploy
-
-commit ef5036ffb55d2df39599cdb82d7e345ad2aabd9a
-Author: Felix <noreplay-felixff@gihub.com>
-Date:   Sun Oct 19 02:24:26 2025 +0200
-
-    setup project to dual-langugages
