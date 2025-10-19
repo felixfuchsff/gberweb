@@ -1,11 +1,11 @@
+commit 1f93a705ceafc130f6b58ef574201c84f5127148
+Author: Felix <noreplay-felixff@gihub.com>
+Date:   Sun Oct 19 02:59:05 2025 +0200
+
+    simplify date command with seconds
+
 commit 13409559a5b35df646d9f70eff7717b044988825
 Author: Felix <noreplay-felixff@gihub.com>
 Date:   Sun Oct 19 02:55:42 2025 +0200
 
     simplify date command with ns
-
-commit ee96b1ebcd91cd929d96897d6e08327da43bac93
-Author: Felix <noreplay-felixff@gihub.com>
-Date:   Sun Oct 19 02:54:08 2025 +0200
-
-    simplify date command
