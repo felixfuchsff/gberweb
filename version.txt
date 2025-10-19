@@ -1,11 +1,11 @@
-commit 1f93a705ceafc130f6b58ef574201c84f5127148
+commit 36495cfbc61c3e0452ca686a5f2f130f5c2b6bbc
 Author: Felix <noreplay-felixff@gihub.com>
-Date:   Sun Oct 19 02:59:05 2025 +0200
+Date:   Sun Oct 19 05:42:22 2025 +0200
 
-    simplify date command with seconds
+    Aufgabe 2 in python
 
-commit 13409559a5b35df646d9f70eff7717b044988825
+commit 3fcc5b4252992aab4d9f5cf9414833bf989895f4
 Author: Felix <noreplay-felixff@gihub.com>
-Date:   Sun Oct 19 02:55:42 2025 +0200
+Date:   Sun Oct 19 04:58:09 2025 +0200
 
-    simplify date command with ns
+    move code to src
