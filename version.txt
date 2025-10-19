@@ -1,0 +1,11 @@
+commit ef5036ffb55d2df39599cdb82d7e345ad2aabd9a
+Author: Felix <noreplay-felixff@gihub.com>
+Date:   Sun Oct 19 02:24:26 2025 +0200
+
+    setup project to dual-langugages
+
+commit a2133215a9e3428de6524cbae5f608bc8e8fdf1d
+Author: Felix <noreplay-felixff@gihub.com>
+Date:   Sun Oct 19 00:20:50 2025 +0200
+
+    lexical sort
